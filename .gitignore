@@ -53,3 +53,8 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# These files will be released in the future,
+# but for now they are kind of sensitive and should not be shared publicly
+Operating System - Labolatory Videos.md
+Operating System - Lecture Videos.md
